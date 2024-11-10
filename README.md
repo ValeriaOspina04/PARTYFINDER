@@ -1,1 +1,1 @@
-# PARTYFINDER
+# PartyFinder
